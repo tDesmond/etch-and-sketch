@@ -39,7 +39,7 @@ button {
     border-radius: 4px
 }
 
-button:focus {
+button:hover {
     height: 50px;
     width: 100px;
     background-color: black;
