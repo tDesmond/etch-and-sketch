@@ -1,0 +1,22 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.drawing-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    gap: 0px;
+    padding: 0px;
+
+    border-radius: 4px;
+    /* padding: 32px; */
+    border: 1px solid black;
+    color: black;
+}
